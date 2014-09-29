@@ -17,5 +17,6 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 gem 'middleman-gh-pages'
 
 # per http://benfrain.com/understanding-middleman-the-static-site-generator-for-faster-prototyping/
-gem "middleman-favicon-maker"
+gem "middleman-favicon-maker", "~> 3.7"
+
 

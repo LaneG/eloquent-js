@@ -133,7 +133,7 @@ PLATFORMS
 
 DEPENDENCIES
   middleman (~> 3.3.6)
-  middleman-favicon-maker
+  middleman-favicon-maker (~> 3.7)
   middleman-gh-pages
   middleman-livereload (~> 3.1.0)
   tzinfo-data

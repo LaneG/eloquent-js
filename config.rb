@@ -71,4 +71,7 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+
+  # Add a favicon
+  activate :favicon_maker
 end
